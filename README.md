@@ -1,13 +1,15 @@
+📑 About
 This repository contains all the Data Structures and Algorithms (DSA) lab record programs implemented in C.
 Each program is implemented from scratch and focuses on understanding how data structures actually work internally — rather than just using built-in features.
-
+________________________________________
 Data Structures and Algorithms Record
 📂 Submitted by
-Name: N.Srinivasulu
-Register No: 11249A249
-Course: B.Tech CSE (AI & DS)
-Subject: Data Structures and Algorithms
-Year & Semester: 2nd yr, 1st sem
+•	Name: N.Srinivasulu
+•	Register No: 11249A249
+•	Course: B.Tech CSE (AI & DS)
+•	Subject: Data Structures and Algorithms
+•	Year & Semester: 2nd yr, 1st sem
+________________________________________
 🧩 Topics Covered
 No.	File Name	Description
 1	Linear Search	Searches for an element sequentially in an array
@@ -19,3 +21,4 @@ No.	File Name	Description
 7	Simple Queue	Implements a basic queue using arrays
 8	Circular Queue	Implements a circular queue that efficiently reuses space
 9	Linked List	Full linked list implementation (insertion, deletion, traversal, etc.)
+
